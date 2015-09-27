@@ -32,7 +32,7 @@ padding-top: 50px; /* If you're making other pages, make sure there is 50px of p
 padding-bottom: 50px;
 text-align: center;
 color: #f8f8f8;
-background: url(../img/alma.jpg) no-repeat center center;
+background: url(../img/forest1.jpg) no-repeat center center;
 background-size: cover;
 width: 100%;
 }
@@ -113,7 +113,7 @@ border-top: 3px solid #e7e7e7;
 .banner {
 padding: 100px 0;
 color: #f8f8f8;
-background: url(../img/andromeda.jpg) no-repeat center center;
+background: url(../img/forest5.jpg) no-repeat center center;
 background-size: cover;
 }
 .banner h2 {
